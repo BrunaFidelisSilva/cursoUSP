@@ -1,7 +1,0 @@
-x = int(input())
-y = int(input())
-z = (x-y)
-a = (x>=y)
-b = (x<y)
-print(a,'pode comprar tudo')
-print(b,'saldo insuficiente')
